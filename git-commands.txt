@@ -4,4 +4,8 @@ git add -A-->> Adding files to stanging area
 
 git commit -m"your mesage"-->>adding files to localrepo
 
-git status -->listing all untracked files 
+git status -->listing all untracked files
+
+git remote add name path---->>to add remote
+
+git push -u name master-->>push 
