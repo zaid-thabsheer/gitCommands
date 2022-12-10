@@ -1,1 +1,7 @@
 git init-->>to initialize git
+
+git add -A-->> Adding files to stanging area
+
+git commit -m"your mesage"-->>adding files to localrepo
+
+git status -->listing all untracked files 
